@@ -1,0 +1,30 @@
+{
+  "date": "2026-10-13",
+  "checked_at_utc": "2026-10-12T19:32:27.067Z",
+  "checks": [
+    "590 unique IDs and keys",
+    "493 visuals have style reviews and existing files",
+    "493 user-overridden style statuses with previous reviews preserved",
+    "240 character frames: ten poses with frames 1–24 and saved key poses",
+    "Active prompts exclude conflicting legacy art direction",
+    "83 icons updated with correct size and alpha",
+    "20 unique selected image_gen icon outputs",
+    "8 native vector control sources present",
+    "9 generated references present",
+    "Semantic filenames verified",
+    "475 migrated paths resolve",
+    "HTML data exactly matches data.json",
+    "97 audio objects unchanged",
+    "Original target dimensions unchanged; new frames are 700 × 900",
+    "Requested character folder deleted",
+    "Organized folders exist and source/sources removed",
+    "Current Markdown and static HTML links resolve"
+  ],
+  "documentation": {
+    "files": 29,
+    "links": 774,
+    "historical_archive_body_links_excluded": true
+  },
+  "static_html_links": 6,
+  "passed": true
+}
